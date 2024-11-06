@@ -1,0 +1,7 @@
+{
+  "name": "botanitask",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
